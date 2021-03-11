@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">Just a tech -</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j3rry01v" alt="j3rry01v" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/j3rry01_" target="blank"><img src="https://img.shields.io/twitter/follow/j3rry01_?logo=twitter&style=for-the-badge" alt="j3rry01_" /></a> </p>
 
 - 🔭 I’m currently working on [Darlene Alderson TG bot](https://github.com/j3rry01v/Darlene-Alderson.git)

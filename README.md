@@ -1,4 +1,6 @@
-https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">Just a tech -</h3>
 

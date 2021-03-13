@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">Just a tech -</h3>
 

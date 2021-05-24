@@ -4,7 +4,7 @@
 <img align="right" width=480 height=270 src="src/gilfoyle.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <strong><strong><a href="https://github.com/j3rry01v/CEV-Rename-Bot">CEV Rename Bot</strong></li>
+<li>🔭 I’m currently working on <strong><strong><a href="https://github.com/j3rry01v/CEV-Rename-Bot">CEV Rename Bot</strong></a></li>
 <li>🌱Currently Learning <strong> python</strong>.</li>
 <li>💬 Ask me about <strong>Telegram and Python</strong>.</li>
 <li>👨‍💻 Most of my <strong>projects</strong> are available on <a href="https://github.com/j3rry01v">Github</a>.</li>

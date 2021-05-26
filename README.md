@@ -28,4 +28,4 @@
 <img src="https://avatars0.githubusercontent.com/u/39539223?s=460&u=f213f82c027815991ef5ad42ae0fdb49e80e22c3&v=4" alt="brave browser" width="25" height="25" />
 </p>
 
-[![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=j3rry01v&count_private=true&show_icons=true&theme=radical)](https://github.com/j3rry01v)
+[![Jerry github stats](https://github-readme-stats.vercel.app/api?username=j3rry01v&count_private=true&show_icons=true&theme=algolia)](https://github.com/j3rry01v)

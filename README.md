@@ -7,7 +7,7 @@
 <li>🌱Currently Learning <strong> python</strong>.</li>
 <li>💬 Ask me about <strong>Telegram and Python</strong>.</li>
 <li>👨‍💻 Most of my <strong>projects</strong> are available on <a href="https://github.com/j3rry01v">Github</a>.</li>
-<li>⚡ Fun fact: Things i like the most begins with letter 'C' : <strong>Computers ,Cricket ,Coffie..  ☕</strong>.</li>
+<li>⚡ Fun fact: Things i like the most begins with letter 'C' : <strong>Computers ,Cricket ,Coffees..  ☕</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use..</h2>
 <p align="left">

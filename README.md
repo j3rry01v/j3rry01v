@@ -1,5 +1,5 @@
 <h2>Hello Friend<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>I'm  a first year CS student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>. I am working on some side projects, learning some couple new dishes.</p>
+<!-- <p>I'm  a first year CS student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>. I am working on some side projects, learning some couple new dishes.</p>
 <p><a href="https://t.me/j3rry01"><img src="https://img.shields.io/badge/-@J3rry01-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/j3rry01" alt="Telegram Badge"></a> <a href="https://dev.to/j3rry01"><img src="https://img.shields.io/badge/-@Jerry01-FFFFFF?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/J3rry01" alt="DevTo Badge"></a> <a href="https://gitlab.com/j3rry01/"><img src="https://img.shields.io/badge/-@J3rry01-380D75?style=flat-square&amp;logo=Gitlab&amp;link=https://gitlab.com/J3rry01/" alt="Gitlab Badge"></a> <img src="https://img.shields.io/badge/J3rry01_-380D75?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/j3rry01_" alt="j3rry01_" /></a> </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -21,7 +21,7 @@
 [comment]: <> (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" alt="telegram" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" alt="telegram" width="25" height="25" /> -->
 
 [comment]: <> (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />)
 

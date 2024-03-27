@@ -1,5 +1,5 @@
 <h2>Hello Friend<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-![My Recently Played Tracks](https://github-profile-apple-music.web.app/api/v1/users/rJoIlk2W2ijkDawbLm3R/recent/played/tracks?template=template_1_3)
+[My Recently Played Tracks](https://github-profile-apple-music.web.app/api/v1/users/rJoIlk2W2ijkDawbLm3R/recent/played/tracks?template=template_1_3)
 
 <!-- <p>I'm  a first year CS student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>. I am working on some side projects, learning some couple new dishes.</p>
 <p><a href="https://t.me/j3rry01"><img src="https://img.shields.io/badge/-@J3rry01-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/j3rry01" alt="Telegram Badge"></a> <a href="https://dev.to/j3rry01"><img src="https://img.shields.io/badge/-@Jerry01-FFFFFF?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/J3rry01" alt="DevTo Badge"></a> <a href="https://gitlab.com/j3rry01/"><img src="https://img.shields.io/badge/-@J3rry01-380D75?style=flat-square&amp;logo=Gitlab&amp;link=https://gitlab.com/J3rry01/" alt="Gitlab Badge"></a> <img src="https://img.shields.io/badge/J3rry01_-380D75?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/j3rry01_" alt="j3rry01_" /></a> </p>
